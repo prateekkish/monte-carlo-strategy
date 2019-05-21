@@ -1,4 +1,4 @@
-# Monte Carlo Problem
+# Monte Carlo Problem Simulation
 
 ## Problem
 - You are presented with three doors. Two of them have goats and one has a car. 
@@ -9,3 +9,7 @@
 Let's find out with Python.
 
 Source: [Python Programmer](https://www.youtube.com/watch?v=OKp3bYiKGrc)
+
+## Runs with Python3.7
+
+    python3 program.py
